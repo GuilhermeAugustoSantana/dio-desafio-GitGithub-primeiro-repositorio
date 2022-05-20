@@ -1,8 +1,8 @@
 # comandos 
 ## git init
-## git push
-## git pull
 ## git clone
 ## git status
-## git add
-## git commit -m
+## git add (primeiro esse para depois o commit)
+## git commit -m (depois faz o push)
+## git push
+## git pull
